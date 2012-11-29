@@ -1,2 +1,2 @@
-myfirst
+myfirst project with git
 =======
